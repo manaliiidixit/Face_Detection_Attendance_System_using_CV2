@@ -42,4 +42,5 @@ Screenshots-
 ![image](https://github.com/manaliiidixit/Face_Detection_Attendance_System_using_CV2/assets/112846161/801b780a-850b-456c-a234-d6c575f6e9de)
 
 7. Buy me Coffee-
-![WhatsApp Image 2023-07-16 at 1 28 24 PM](https://github.com/manaliiidixit/Face_Detection_Attendance_System_using_CV2/assets/112846161/e179347c-f3b4-4914-aeeb-afb5933f0c6b)
+![WhatsApp Image 2023-07-16 at 1 28 24 PM](https://github.com/manaliiidixit/Face_Detection_Attendance_System_using_CV2/assets/112846161/48b3359c-4c56-448c-a63d-f3be6a90e2f2)
+--------------------------------------------------
